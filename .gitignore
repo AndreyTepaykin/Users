@@ -2,3 +2,5 @@
 composer.lock
 node_modules
 vendor/
+web/img/icons
+files/Users/icons/
